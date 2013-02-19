@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Maksim Berjoza"]
   s.email       = ["maksim.berjoza@gmail.com"]
   s.homepage    = "http://rubygems.org/gems/jss"
-  s.summary     = ""
+  s.summary     = "json2, html5shiv and other fundamental javascripts libraries with Rails asset pipeline"
   s.description = ""
   s.license     = "MIT"
 end
