@@ -18,3 +18,7 @@ Add the following to your `app/assets/javascripts/application.js`:
 [html5shiv](https://github.com/aFarkas/html5shiv)
 
     //= require html5shiv
+
+
+## TODO
+  * add update like [html5shiv-rails](https://github.com/dgm/html5shiv-rails)
