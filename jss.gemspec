@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.files       = Dir["lib/**/*"] + Dir["vendor/**/*"] + ["README.md"]
   s.authors     = ["Maksim Berjoza"]
   s.email       = ["maksim.berjoza@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/jss"
+  s.homepage    = "https://github.com/torbjon/jss"
   s.summary     = "json2, html5shiv and other basic JavaScript libraries with Rails asset pipeline"
   s.description = ""
   s.license     = "MIT"
