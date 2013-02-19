@@ -1,4 +1,6 @@
 # Rails JavaScriptS collection
+json2, html5shiv and other fundamental javascripts libraries with Rails asset pipeline
+
 
 ## Install
 
